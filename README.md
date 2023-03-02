@@ -12,9 +12,9 @@
 | Ethernet | RTL8125 2.5GbE |
 | OS Disk (Nvme/Sata3) | Adata xpg sx8200 pro pcie gen3x4 1TB | SSD KingSpec 1TB|
 
-**macOS version**: Big Sur 12.5   
+**macOS version**: Ventura 13.2.1   
 
-**OpenCore version**: 0.8.3  
+**OpenCore version**: 0.8.9  
 
 **SMBIOS**:  MacPro1,1
 
@@ -28,10 +28,10 @@
 - Wifi
 - Bluetooth
 - GPU
+- AirDrop ( I bought an apple native wifi card )
 
 
 ## Not working
- - AirDrop (Works Only native Mac Wifi Card)
  - Hypervisor.framework (VirtualBox and XCode iOS emulator works)
 
 
