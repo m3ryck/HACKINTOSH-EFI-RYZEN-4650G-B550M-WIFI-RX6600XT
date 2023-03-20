@@ -3,7 +3,7 @@
 ## Specification
 
 | **Component**        | **Model**                            |
-| -------------------- | ------------------------------------ | ---------------- |
+| -------------------- | ------------------------------------ | 
 | CPU                  | AMD Ryzen 5 4650G                    |
 | Motherboard          | Asus TUF Gamming B550m Plus + WIFI   |
 | RAM                  | 16GB (2 x 8GB) Asgard RGB @ 3200     |
