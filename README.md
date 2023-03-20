@@ -10,6 +10,7 @@
 | Audio Chipset        | ALCS-1200A                           |
 | GPU                  | Sapphire RX 6600XT                   |
 | Ethernet             | RTL8125 2.5GbE                       |
+| Wifi + Bluetooth     | BCM94360CD                           |
 | OS Disk (Nvme/Sata3) | Adata xpg sx8200 pro pcie gen3x4 1TB | SSD KingSpec 1TB |
 
 **macOS version**: Ventura 13.2.1
@@ -25,12 +26,13 @@
 
 ## Working
 
-- **Sleep/Wake**
+- Sleep/Wake
 - Ethernet
 - Wifi
 - Bluetooth
 - GPU
-- AirDrop ( I bought an apple native wifi card )
+- AirDrop
+- Audio
 
 ## Not working
 
