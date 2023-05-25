@@ -6,7 +6,7 @@
 | -------------------- | ------------------------------------ | 
 | CPU                  | AMD Ryzen 5 4650G                    |
 | Motherboard          | Asus TUF Gamming B550m Plus + WIFI   |
-| RAM                  | 16GB (2 x 8GB) Asgard RGB @ 3200     |
+| RAM                  | 32GB (4 x 8GB) Asgard RGB @ 3200     |
 | Audio Chipset        | ALCS-1200A                           |
 | GPU                  | Sapphire RX 6600XT                   |
 | Ethernet             | RTL8125 2.5GbE                       |
