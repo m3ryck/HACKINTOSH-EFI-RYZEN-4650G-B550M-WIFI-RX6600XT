@@ -13,9 +13,9 @@
 | Wifi + Bluetooth     | BCM94360CD                           |
 | OS Disk (Nvme/Sata3) | Adata xpg sx8200 pro pcie gen3x4 1TB | SSD KingSpec 1TB |
 
-**macOS version**: Ventura 13.2.1
+**macOS version**: Ventura 14.2.1
 
-**OpenCore version**: 0.9.0
+**OpenCore version**: 0.9.7
 
 **SMBIOS**: MacPro1,1
 
